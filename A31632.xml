@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several matters, relating to the improvement of the trade in this kingdom, by the use and establishment of a land-credit humbly presented to the consideration of His Grace, the Lord High Commissioner, to the Right Honourable Estates of Parliament, and to the whole nation in general / by H.C.</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31632</idno>
+            <idno type="STC">Wing C1889</idno>
+            <idno type="STC">ESTC R3960</idno>
+            <idno type="EEBO-CITATION">11791865</idno>
+            <idno type="OCLC">ocm 11791865</idno>
+            <idno type="VID">49235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 20:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several matters, relating to the improvement of the trade in this kingdom, by the use and establishment of a land-credit humbly presented to the consideration of His Grace, the Lord High Commissioner, to the Right Honourable Estates of Parliament, and to the whole nation in general / by H.C.</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Hugh Chamberlen. Cf. Wing.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agricultural credit --  Scotland.</term>
+               <term>Scotland --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:49235:1"/>
+            <pb facs="tcp:49235:1" rendition="simple:additions"/>
+            <p>Several Matters, <hi>Relating to the Improvement of the TRADE in this KINGDOM, By the Uſe and Eſtabliſhment of a Land-Credit,</hi> Humbly preſented to the Conſideration of His Grace the Lord High Commiſſioner, to the Right Honourable Eſtates of Parliament, and to the whole Nation in General. By <hi>H. C.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <head>The <hi>INTRODUTCTION</hi> to the Reader.</head>
+            <p>HAving by my Agents <hi>Anno</hi> 1693, made a Propoſal for Land-Credit to the Parliament of <hi>Scotland,</hi> I thought my ſelf in Duty obliged, for their then Favourable Reception of the ſame, perſonally to attend this Seſſion, and to proceed with their leave to a further Proſecution: No Report having been made by the Committee, for want of continu<g ref="char:EOLhyphen"/>ing my Sollicitation, purpoſely delayed, that what was then New, might have time to be throughly underſtood; and, ſince ſome being Dead, and others Advanced to publick Stations, 'Tis doubted, whether the ſame Committee for want of a Quorum can regularly proceed.</p>
+            <p>And finding, ſince my Arrival in this Country, that the Greatneſs of that Propoſal ſtaggar'd the Faith of ſome, and the Intereſt of others: I have reſolved, as may appear by the following Example, to reduce it to a ſmaller Scantling, in caſe the ſame ſhall be thought more Agreeable to the preſent Humour and Circumſtance of the Nation, that ſo they may be rendered more Capable of the greater Undertaking, by Degrees, and by taſting Experimentally the Benefit of Land-Credit.</p>
+            <p>I hope, it can be no Offence for me, being a Stranger, to offer to the Wiſdom of the Nation, what is, in my Opinion, at leaſt, a great Trea<g ref="char:EOLhyphen"/>ſure, worthy of their Character and Conſideration, and tending highly to the Improvement of this Nations Trade; and which, I preſume, may be defended in every part, with ſuch Reaſon and Arguments, as may ſilence Objections, and prevent Oppoſition; There can therefore be no great Cauſe to doubt, but an unbyaſſed and underſtanding Committee will be appointed, to conſider the ſame with Patience, and to Judge
+<pb n="2" facs="tcp:49235:2" rendition="simple:additions"/>Impartially of the Anſwers, return'd to all ſuch Difficulties, as may be Objected: I dare almoſt be Confident, there is not a Judicious <hi>Scots</hi>-Man who loves his Country; but may be convinced, it is the true Inte<g ref="char:EOLhyphen"/>reſt of <hi>Scotland,</hi> I endeavour by this Eſſay to promote, and will cheerful<g ref="char:EOLhyphen"/>ly Contribute his honeſt Aſſiſtance to have it ſeriouſly conſidered, whereby I do not Queſtion, but 'twill appear as Poſſible, as I affirm it Uſeful and Inviting, without Charge, Hazard, or uncertainty; for Wiſe-Men never Condemn, what they do not underſtand, or find not more In<g ref="char:EOLhyphen"/>jurious than Beneficial.</p>
+            <p>
+               <hi>Scotland</hi> wants neither Lands nor Hands, the two principal Hinges of Life and Support; yet without Money or good Credit, it can never Flouriſh either in Trade or Riches: For no Country ever did without Plenty of one of them: And none ever faild of Trade, that abounded in either. And, ſince Imaginary Credit, that is without a known Fund or Security, does Anſwer all the Ends and Uſes of Money in all Trading Countrys rather better, than Money in <hi>Specie,</hi> Why may not <hi>Scotland,</hi> upon a known and ſecure Fund of Land, raiſe a better Credit as Uſeful? For that is always the beſt Security for Credit, which can, with greateſt Certainty within the limited time diſcharge it, tho never ſo long after, provided the Credit be current the while, and the Security, Subject neither to Fraud, Imbazelment, Removal or Deficiency in the interim.</p>
+            <p>
+               <hi>Scotland</hi> at preſent abounds neither with Money nor good Credit, nor probably will in many years, tho' Forreign Trade ſhould flouriſh: but <hi>Scotland</hi> may in few Months be ſupplied with as great a Summ of the beſt Credit of the World, as it may want; and ſuch good Credit made Current by Parliament, becomes to all Intents and Purpoſes Real Mo<g ref="char:EOLhyphen"/>ney, as truly and as uſeful, as any of Gold or Silver, and will be the ſame Advantage to the Nation, as if ſo much of Gold or Silver were actually imported: Nor can an Objection ly ſtronger againſt this Propoſal, than it would againſt the Importation of the like Value in Gold: For, when all muſt take it by Act of Parliament, 'tis abſolutly impoſſible any can looſe by it: why ſhould not all then gladly receive it, ſince <hi>Scotland</hi> can never after want Trade or Riches, and if the Wiſe lead the way, no doubt, but the Reſt will ſoon follow: For no Credit can miſcarry, which is to be anſwered with Land, Labour, or Commodity; and ſcarce any can be ſafe, which muſt only be anſwered in Money: Nor can Trade ever after receive a Stop, becauſe, as Goods increaſe, ſo can the Credit, and then certainly will the Uſe of both; but, when Trade muſt be only managed with Money, it can never be extended beyond the Sum it hath, be it more or leſs.</p>
+            <pb n="3" facs="tcp:49235:2" rendition="simple:additions"/>
+            <p>Now, how much does it Concern this Nation to rouſe themſelves out of their drowſie Poſture? For that Countrey which practiſeth moſt Ju<g ref="char:EOLhyphen"/>ſtice and Generoſity, and is leaſt addicted to Idleneſs, will aſſuredly have the Advantage of Riches and Power above all other: And it may be, <hi>Scotland</hi> is many thouſands the worſe for want of this Land-Credit, ſince firſt propoſed, and muſt ſtill be great Loſers, till the Government thinks fit to eſtabliſh it.</p>
+            <p>Surely few or none but will look upon this as a Publick National Buſi<g ref="char:EOLhyphen"/>neſs, tho tendered by a private Perſon, becauſe in its Nature it concerns every Man, and nothing is expected by the Propoſer, but a ſhare of the Profits raiſed by his proper Induſtry, out of a ſmall part of this Current Credit imployed by the Managers in Trade.</p>
+            <p>If the Nature of Money, Credit, Banks, Lands, Labour and Trade, Foreign and Domeſtick, had been generally better underſtood, I might hope for far leſs Trouble in the Solicitation, than I fear I may meet with, but Truth with Patience and Diligence at laſt overcomes all Difficulties.</p>
+            <p>I could have enlarged here upon all theſe heads, but that at preſent, it ſeems not ſo neceſſary, and ſome of them will be touched upon in the ſuceeding Papers. However I cannot but take Notice, that this Nation wants not the Wheels of Trade, but only the Spring or Weights to put them in Motion, which I here humbly preſent.</p>
+            <p>I have been perſwaded to publiſh ſomething, to ſatisfie the Nation of the Poſſibility and Advantages, which may accrue to it by this Propoſal and how ſeaſonable it may be at this time, when the Nation has ſhown ſo much Inclination for Trading, and ſeems only to want the Tools of it.</p>
+            <p>To this End I have here inſerted a few previous Conſiderations and Queries, and then propoſed a practical Example for Land-Credit to a much lower Summ than formerly offered, to which I ſhall hereafter add Arguments for paſſing it, and Advantages attending it, together with Compariſons betwixt Money and Credit, as to their Eſſential Qualifica<g ref="char:EOLhyphen"/>tions and Circulation, and at laſt conclude with Anſwers to ſuch Obje<g ref="char:EOLhyphen"/>ctions, as have hitherto come in my way, tho ſome of them are very frivolous.</p>
+            <p>I do not pretend to be ſo well inſtructed in the Laws and Cuſtoms of this Kingdom, as to adjuſt a Propoſal agreeable to them in every parti<g ref="char:EOLhyphen"/>cular, nor would it become me if I were; It is ſufficient I have offered a very good and profitable Deſign, as well as practicable and neceſſary in this Countrey: For 'tis the Buſineſs of the Legiſlative Power to cloath it
+<pb n="4" facs="tcp:49235:3" rendition="simple:additions"/>in ſuch Language, and to guard it with ſuch Circumſtances, as are moſt neceſſary; So that I hope I have not fail'd of my Duty, but ſhewed my Good Will at leaſt, to be as much a true Friend to the Intereſt of <hi>Scotland,</hi> as any Native: And if any ſeem to be of a contrary Opinion, it may be no ſmall Service to their Countrey to diſcover my Miſtakes, if they find any; as well as a kind Obligation, if done in a Civil way, upon</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c. H. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <head>Conſiderations relating to Traffique in General, and in particular to Land-Credit.</head>
+               <p>IN all Countries there is much more in quantity and Value conſumed of Domeſtick Product, Labour and Art at Home, than there is Exported for Forreign Commodities to be ſpent at Home, for Example by Judi<g ref="char:EOLhyphen"/>cious Computation, 'tis found that above twenty times more is conſum<g ref="char:EOLhyphen"/>ed of Home-Commodities and Manufactures in <hi>England</hi> than are exported.</p>
+               <p>This is mentioned to ſhew, there may be Occaſion for a greater Stock of Money or Credit to be imployed for Home-Service, than is at preſent Current here, altho there were no increaſe of Exportation for their Conſumption of Forreign Merchandiſe.</p>
+               <p>All Laws are a Force or Reſtraint upon a People: But, being ſuppoſ<g ref="char:EOLhyphen"/>ed for Common Good, they are quietly ſubmitted to.</p>
+               <p>This is to ſhew that impoſing Land-Credit to be current by Law, when proved a Publick Good, will be no Invaſion by the Govern<g ref="char:EOLhyphen"/>ment on the Rights of a People.</p>
+               <p>It is much better to Export Wares and bring back Money, than to export Money to bring back Wares.</p>
+               <p>Becauſe the firſt enriches a Nation, and the laſt as certainly impo<g ref="char:EOLhyphen"/>veriſhes it, which is to put the Nation in mind of a Neceſſity to Re<g ref="char:EOLhyphen"/>gulat their Trade, and to ſilence ſuch as object, that this Credit will not paſs beyond Sea.</p>
+               <p>Whenever an apparent publick Good cannot be practiſed without an Act of Parliament, no wiſe Government ever denyes one.</p>
+               <pb n="5" facs="tcp:49235:3"/>
+               <p>This may anſwer ſuch as doubt the paſſing an Act for the Currency of Land-Credit, when it ſhall be made appear a publick Convenien<g ref="char:EOLhyphen"/>cy, and all Objections fully anſwered.</p>
+               <p>That, Advantageous Propoſals being made upon fair and eaſie Terms to a Nation; it may be reaſonably hoped, a Parliament, being the Wiſdom, of ſuch a Nation, may, notwithſtanding any malicious Inſinuations give them a patient Hearing, and determine therein for the Good of their Countrey.</p>
+               <p>This is inſerted as a Ground of the Author's Confidence to proceed herein, and to ſtop the unmannerly Suggeſtions of ſome, who there<g ref="char:EOLhyphen"/>by endeavour to prejudge the Proceedings of Parliament.</p>
+            </div>
+            <div type="part">
+               <head>A few Queries not unworthy Conſideration.</head>
+               <opener>
+                  <salute>Queres,</salute>
+               </opener>
+               <list>
+                  <item>1. IS the preſent Condition of <hi>Scotland</hi> ſo very Proſperous, as to want no Addition, either of Neceſſaries, Conveniencies, or Splen<g ref="char:EOLhyphen"/>der? Or,</item>
+                  <item>2. Do they deſpair of any Poſſibility of Help, or Amendment in all or any of the aforeſaid Reſpects? Or,</item>
+                  <item>3. Does the Nation generally wiſh, that the plauſible, and at leaſt ſeem<g ref="char:EOLhyphen"/>ing Advantageous Propoſals for eſtabliſhing a Land-Credit, ſhould not be accepted, tho never ſo Profitable, Poſſible and Practicable?</item>
+                  <item>4. Is this Country ſo totally void of Induſtry, Ambition, Pride, and Covetouſneſs, and I may add of Charity alſo, as not to endeavour to equal their Neighbours in Riches, Honour, and Power: Nor to be able to Feed &amp; Cloath the Miſerable ſtarving Poor, who of late fwarm in this Country? And, if this be not to be obtain'd according to their own Humour, can they be ſo Weak and Wilful as to Reject it, when offered by other Methods, tho more Safe and Certain?</item>
+                  <item>5. Cannot payments be made, and Trade carried on by ſomething elſe, beſides Gold, Silver, and Copper? And if ſo, by what? why? and when?</item>
+                  <item>6. Would an increaſe of that ſomething be Beneficial to <hi>Scotland,</hi> as 'tis an Inſtrument and Tool of Trade to augment Riches by improving Husbandry and Traffick, tho it ſhould be in it ſelf no immediat Ad<g ref="char:EOLhyphen"/>dition of Riches?</item>
+                  <pb n="6" facs="tcp:49235:4" rendition="simple:additions"/>
+                  <item>7. In ſhort, does Credit make any payments? and why? and why not all payments? and why not here?</item>
+                  <item>8. Is not Credit uſed in the Trading parts of <hi>Europe,</hi> as a Tool and Mea<g ref="char:EOLhyphen"/>ſure of Trade? and are not more and greater payments made in Credit, where 'tis in uſe, than in Gold or Silver? And has any great Inconveniency been hitherto diſcovered by the uſe of it? Or rather has it not been an eſpecial Means to Multiply Trade in all ſuch Places?</item>
+                  <item>9. Is not Credit current in <hi>London, Amſterdam,</hi> and other Places by Choice, without legal Force? And can any Man, who accepts the Credit, know the Fund?</item>
+                  <item>10. Is not the Opinion of the Security and Conveniency, and not the liberty of drawing out the Money at pleaſure the true cauſe of the currency of ſuch Credit, ſince none draws their Money out of the Bank of <hi>Amſterdam,</hi> and ſince the Credit of it commands Money every where, as well as all other ſort of Goods?</item>
+                  <item>11. May not Authority juſtly inſtitute by Law a publick Good, which in Fact for ſo many Ages is found ſo Beneficial? And will not Land, known to be Sufficient, be a better Fund than Money, of which the value cannot be known, nor is in Nature ſo ſafe?</item>
+                  <item>12. May not Land-Banks and Credit be as Honeſtly managed in the ſame Country, as Money Banks are;</item>
+               </list>
+               <p>Truth and good Offers wants no Flattering Inſinuations. A plain Style Beſt becomes them, of which kind this may be juſtly eſteemed, till its Falſhood, or Folly be made manifeſt.</p>
+            </div>
+            <div type="part">
+               <head>An Example of a Method for reducing Land Credit into Practice,</head>
+               <p>IN caſe the Propoſal for Land Credit, as formerly framed, may ſeem not ſo well adapted to the preſent temper of this Kingdom, as it ought, which may be pardonable to a Stranger: The following Scheme, which may oboviat all the Objections and Difficulties brought againſt the ſaid Propoſal, is, as a <hi>ſpecimen</hi> only of the ſame, tendered to conſidera<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Suppoſe the Land Rents of <hi>Scotland,</hi> be Computed at about One Million <hi>per Annum,</hi>
+               </p>
+               <p>Upon which ſuppoſe, that by Act of Parliament, and under the inſpection and controll of their Commiſſioners and other Truſtees, there
+<pb n="7" facs="tcp:49235:4"/>may be the value of one Year of all the Rents of the Kingdom, be the Sum more or leſs, raiſed in Bills of Credit, current in all payments what<g ref="char:EOLhyphen"/>ſoever without Exception, to be diſpoſed of, as follows, <hi>viz.</hi>
+               </p>
+               <p>That there may be Fourſcore Pounds (ſuppoſe of one Hundred Pounds <hi>per Annum;</hi> and ſo proportionably for a greater or ſmaller Eſtate in Land) lent <hi>gratis</hi> for 20 Years to every Heretor, that is willing to en<g ref="char:EOLhyphen"/>gage his Eſtate to pay at 20 Years end, or within one Year after, one Years Rent only in Money or Office Credit, to be cancell'd aſſoon as payed back into the Office, which, if there were no other Profit, is not inconſiderable, being not one <hi>per Cent.</hi> intereſt <hi>per Annum</hi> for that Term: But to make the offer the more acceptable, the overplus Twenty Pounds may be employed in Trade, to be at the 20 Years end returned to the Office as part of the Hundred Pounds charged upon the reſpective Heretors E<g ref="char:EOLhyphen"/>ſtates, they being obliged before they can be cleared from this incum<g ref="char:EOLhyphen"/>berance, to make up the remainder, which probably may not exceed, what was at firſt received; Becauſe without a wonderfull Miſ-fortune the Stock can never be impaired by Trade, ſince every loſs muſt be made up, before any dividends of the Profits can be made.</p>
+               <p>And in caſe ſeveral Heretors, by reaſon of ſome legal impediment, or for other conſiderations, may be unwilling to be concerned, that then it may be after <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Months lawful to ſuch others, as are willing to Double, Treble or Quadruple the ſaid Credit upon their pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per Eſtates, untill all the Bills of Credit ſhall be diſpoſed of, with a Liberty of hav<g ref="char:EOLhyphen"/>ing ſo many Years after the Expiration of the 20 to pay back the Credit, as half of the yearly Rent of the ſame may perform to the full.</p>
+               <p>That all the Overplus Twenty Pounds may be a Stock for Trade, to be mannaged by the Direction of the Propoſer, &amp; Mannagers, tho under the inſpection and control of the Commiſſioners of Parliament, and the reſt of the Truſtees, that ſo the ſaid Stock may ſuffer no loſs, but be kept con<g ref="char:EOLhyphen"/>ſtantly ſupplyed as aforeſaid. And the nett profits during the whole Term or continuance of the Office, may be divided in two equal parts, the one to Diſcharge the Expenſe of the Office and the managment of the Trade; and the other to the Sole uſe and behoof of the Propoſer without Accompt, and to his Heirs and Aſſigns after him: And the ſame to continue to them, and to be repeated as oft as this undertaking be renewed or augmented, during the firſt Twenty Years, and to remain to him and his Heirs and Aſſignes, for 20 Years only, after ſuch renewal or Augmentation.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:49235:5" rendition="simple:additions"/>
+               <head>Here follows ſome particulars, wherein this exam<g ref="char:EOLhyphen"/>ple may differ from the former Propoſal, <hi>viz.</hi>
+               </head>
+               <p>NOne are excluded, but ſuch as cannot or will not enter. The ſur<g ref="char:EOLhyphen"/>mize of a Proprieters engroſſing a great Sum of Money in <hi>ſpecie</hi> and forſaking his Country with it, is quite removed. And alſo of the Sums being too great to be employed in the Trade of this Nation: The jealouſies of the Money'd Men, Widows and Orphans, having their An<g ref="char:EOLhyphen"/>nualrent to ceaſe, and their Debts payed them with Paper, may be much abated. The Surprize at the length of the Term and the weakneſs thence of the Security, can have no place: And 'tis not in the leaſt doubted, but that, if any Objections ſhould be further ſtarted, they may be as eaſily quaſht, when debated with Reaſon, Candour and Patience.</p>
+               <p>It is further propoſed for the Good of the Nation, tho ſomething forreign to the Nature of this, that ſuch a Regulation of Trade be e<g ref="char:EOLhyphen"/>ſtabliſhed by Parliament, that no forreign Expenſe for Travel, Edu<g ref="char:EOLhyphen"/>cation, Court Viſits, and Attendance, or Merchandiſe, ſhall exceed the Value of Commodities exported.</p>
+               <p>That if neither of the former Methods for Land-Credit, may pleaſe, yet if the Government ſhall think fit to Eſtabliſh a Land-Credit, there may be Variety of Forms propoſed to their Election, when the Defect of theſe ſhall be diſcovered.</p>
+               <pb facs="tcp:49235:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
